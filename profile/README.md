@@ -48,6 +48,19 @@
 - Кристина, [@kris_bermud](https://t.me/kris_bermud)
 - Вадим, [@vdmkkk](https://t.me/vdmkkk)
 
+## Подготовка к курсу
+
+Для наиболее эффективного прохождения курса на занятии вам понадобится свой компьютер с установленными и настроенными программами:
+
+1. Установите [git](https://git-scm.com/downloads/win) для работы с GitHub
+2. Установите [NodeJS](https://nodejs.org/en/download/prebuilt-installer) для запуска JavaScript (v20.17.0 или выше)
+3. Установите [VS Code](https://code.visualstudio.com/)
+4. Установите следующие расширения VS Code:
+   1. [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - поддержка Svelte
+   2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - форматирование кода
+   3. [Github Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - подключение к GitHub
+5. Авторизуйтесь с вашим гитхаб-аккаунтом по [инструкции](https://code.visualstudio.com/docs/sourcecontrol/github#_setting-up-a-repository)
+
 ## Полезные ссылки
 
 ### Курс
