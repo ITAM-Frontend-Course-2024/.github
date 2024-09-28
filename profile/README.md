@@ -51,12 +51,13 @@
 ## Подготовка к курсу
 
 Для эффективного прохождения курса на занятии понадобится подготовить ваш компьютер:
+
 1. Установите [git](https://git-scm.com/downloads/win) для работы с GitHub
 2. Установите [NodeJS](https://nodejs.org/en/download/prebuilt-installer) для запуска JavaScript (v20.17.0 или выше)
 3. Установите [VS Code](https://code.visualstudio.com/)
 4. Установите следующие расширения VS Code:
-    1. [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - поддержка Svelte
-    2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - форматирование кода
+   1. [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - поддержка Svelte
+   2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - форматирование кода
 
 ## Полезные ссылки
 
