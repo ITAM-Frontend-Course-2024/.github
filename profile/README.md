@@ -59,7 +59,7 @@
    1. [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - поддержка Svelte
    2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - форматирование кода
    3. [Github Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - подключение к GitHub
-5. Авторизуйтесь с вашим гитхаб-аккаунтом по [инструкции](https://code.visualstudio.com/docs/sourcecontrol/github#_setting-up-a-repository)
+5. Авторизуйтесь с вашим гитхаб-аккаунтом по [инструкции](https://code.visualstudio.com/docs/sourcecontrol/github)
 
 ## Полезные ссылки
 
