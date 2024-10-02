@@ -67,7 +67,7 @@
 
 - ~Чат курса~ - Для получения ссылки на чат курса напишите любому преподавателю
 - [GitHub](https://github.com/ITAM-Frontend-Course-2024) - GitHub организация курса
-- [Wiki](https://github.com/ITAM-Frontend-Course-2024/.github/wiki) - GitHub Wiki с теорией, разбитой по урокам
+- [Wiki](https://github.com/ITAM-Frontend-Course-2024/.github/wiki) - GitHub Wiki с теорией, домашками и материалами занятий, разбитой по урокам
 
 ### Web
 
