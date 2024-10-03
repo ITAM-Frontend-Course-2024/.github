@@ -6,13 +6,10 @@
 
 В ходе курса вы базово изучите следующие технологии:
 
-- HTML
-- CSS
-- SCSS
+- HTML и CSS
 - JavaScript
-- TypeScript
-- Svelte
-- SvelteKit
+- TypeScript и SCSS
+- Svelte и SvelteKit
 - Fetch API и HTTP
 
 ## Формат и график курса
@@ -63,26 +60,8 @@
 
 ## Полезные ссылки
 
-### Курс
-
 - ~Чат курса~ - Для получения ссылки на чат курса напишите любому преподавателю
 - [GitHub](https://github.com/ITAM-Frontend-Course-2024) - GitHub организация курса
 - [Wiki](https://github.com/ITAM-Frontend-Course-2024/.github/wiki) - GitHub Wiki с теорией, домашками и материалами занятий, разбитой по урокам
 
-### Web
-
-- [doka](https://doka.guide/) - Дружелюбная документация-референс о веб-технологиях
-- [MDN - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Подробная документация по HTML от Mozilla
-- [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Подробная документация по CSS от Mozilla
-- [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Подробная документация по JavaScript от Mozilla
-
-### Svelte
-
-- [Туториал](https://learn.svelte.dev/tutorial) - Официальный интерактивный туториал по Svelte и SvelteKit, охватывающий все от основ до продвинутых тем
-- [Документация Svelte](https://svelte.dev/docs) - Детальная официальная документация Svelte, рекомендуется для изучения после туториала
-- [Документация SvelteKit](https://kit.svelte.dev/docs) - Детальная официальная документация SvelteKit, рекомендуется для изучения после туториала
-
-### Прочее
-
-- [CSS Tricks](https://css-tricks.com/) - Статьи, советы и руководства по CSS и практикам фронтенд-разработки
-- [Can I use](https://caniuse.com/) - Информация о поддержке браузерами различных веб-технологий
+Другие полезные материалы вы можете найти в соответствующих уроках на вики!
